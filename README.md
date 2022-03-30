@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, videogames and programming
 - 🌱 I’m currently learning at a vocational school to learn more stuff about computers
 - 💞️ I’m looking to collaborate on, currently nothing. I created this accoutn to learn how to use this in the future
-- 📫 How to reach me ... Pls don't do that :)
+- 📫 How to reach me ... Pls don't do that :) (but you know, my discord is kinire08#6499, if you are really interested in my skills, but there are way more talented people out there than me so contact them)
 
 <!---
 kinire98/kinire98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
