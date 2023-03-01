@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinire98
 - 👀 I’m interested in sports, videogames and programming
-- 🌱 I’m currently learning at a vocational school to learn more stuff about computers
+- 🌱 I’m currently learning at a vocational school to learning system administration
 - 💞️ I’m looking to make my own projects so I can improve at programming
 - 📫 How to reach me my discord is kinire08#6499, if you are interested in my work you can talk with me this way
 
