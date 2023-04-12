@@ -19,8 +19,4 @@ You can click the Preview link to take a look at your changes.
 ![image]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})   
 --->
  
-## My skills
- 
- <a href="https://github.com/kinire98/Business-and-Entrepreneurship-project/tree/main/Application">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" / >
- </a>
+
